@@ -97,19 +97,19 @@
   }
   #phone-id{
     font-size: 7vw;
-    margin-top: 3vw;
+    margin-top: 2.5vw;
     margin-left: 3vw;
     font-weight: 500;
   }
   #list3{
-    margin-left: 11vw;
+    margin-left: 9vw;
     margin-top: 3.8vw;
     font-size: 5.5vw;
   }
   #select{
     margin-top: 3.8vw;  
     font-size: 5.5vw;
-    margin-left: 5.8vw;
+    margin-left: 4vw;
   }
   #arrowSt{
     position: absolute;
